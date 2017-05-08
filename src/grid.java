@@ -153,7 +153,7 @@ public class grid	//a bit more complicated
 
 		while(true)
 		{
-			Thread.sleep(100);
+			Thread.sleep(150);
 
 
 			ArrayList<cell> listOfAllCells = new ArrayList<cell>();
